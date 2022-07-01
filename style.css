@@ -1,0 +1,24 @@
+hr{
+    color: lightblue;
+    margin: auto;
+    width: 75%;
+    border-top: 8px solid #bbb;
+    border-radius: 5px;
+}
+
+h1{
+    color: #111;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    letter-spacing: -1px;
+    line-height: 1;
+}
+
+.card-azul{
+    width:180px;
+    margin:20px;
+    text-align:center;
+    max-width: 100%;
+    background-color: lightblue;
+    border-radius: 15px;
+}
